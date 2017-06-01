@@ -1,0 +1,1 @@
+java -cp bin;lib/selenium/*;lib/poi/* org.testng.TestNG testng.xml
